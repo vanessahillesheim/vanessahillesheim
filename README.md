@@ -49,6 +49,6 @@ Relatório interativo criado com **Power BI** e recursos de **IA** da Alura.
 
 ## 🌐 Onde me encontrar
 
-📫 **E-mail:** [vanessahillesheim@gmail.com](mailto:vanessahillesheim@gmail.com)  
+📫 **E-mail:** [vanessaahillesheim@gmail.com](mailto:vanessahillesheim@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/vanessahillesheim](https://www.linkedin.com/in/vanessahillesheim/)  
 📊 **GitHub:** [github.com/vanessahillesheim](https://github.com/vanessahillesheim)
