@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou a **Vanessa Hillesheim**
 
-💻 **Desenvolvedora Back-end** e **entusiasta de dados**  
+💻 **Desenvolvedora em formação** e **entusiasta de tecnologia**  
 🚀 Apaixonada por **tecnologia, design** e **aprendizado contínuo**  
-🎯 Atualmente explorando: **Python**, **React Native**, **Firebase** e **Power BI**
+📚 Atualmente explorando: **Python** e **Power BI**
+🎯 **Interessada em desenvolvimento back-end, aplicativos mobile e análise de dados**
 
 ---
 
