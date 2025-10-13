@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou a **Vanessa Hillesheim**
 
-💻 **Desenvolvedora em formação**
-🚀 Apaixonada por **tecnologia** e **aprendizado contínuo**  
-📚 Atualmente explorando: **Python** e **Power BI**
-🎯 **Interessada em desenvolvimento back-end, aplicativos mobile e análise de dados**
+- 💻 **Desenvolvedora em formação**
+- 🚀 **Apaixonada por tecnologia e aprendizado contínuo**
+- 📚 **Atualmente explorando:** Python e Power BI
+- 🎯 **Interesses:** desenvolvimento back-end, aplicativos mobile e análise de dados
 
 ---
 
