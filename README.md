@@ -2,8 +2,8 @@
 
 - 💻 **Desenvolvedora em formação**
 - 🚀 Apaixonada por **tecnologia e aprendizado contínuo**
-- 📚 Atualmente explorando:** Python e Power BI**
-- 🎯 Interesses:** desenvolvimento back-end, aplicativos mobile e análise de dados**
+- 📚 Atualmente explorando:**Python e Power BI**
+- 🎯 Interesses:**desenvolvimento back-end, aplicativos mobile e análise de dados**
 
 ---
 
